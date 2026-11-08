@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://baytelsoudya.com/</loc>
+    <xhtml:link rel="alternate" hreflang="ar-SA" href="https://baytelsoudya.com/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://baytelsoudya.com/" />
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://baytelsoudya.com/assets/images/riyadh-twilight.jpg</image:loc>
+      <image:title>نقل عفش الرياض - البيت السعودي</image:title>
+      <image:caption>خدمات نقل العفش والأثاث في الرياض والمملكة العربية السعودية</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://baytelsoudya.com/assets/images/riyadh-kingdom-tower.jpg</image:loc>
+      <image:title>برج المملكة الرياض</image:title>
+      <image:caption>خدمة نقل عفش في قلب الرياض</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://baytelsoudya.com/#services</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://baytelsoudya.com/#why-us</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://baytelsoudya.com/#process</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://baytelsoudya.com/#faq</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

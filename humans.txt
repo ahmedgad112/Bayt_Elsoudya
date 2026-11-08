@@ -1,0 +1,13 @@
+/* TEAM */
+Company: مؤسسة البيت السعودي لنقل العفش والأثاث
+Location: الرياض، المملكة العربية السعودية
+Contact: 0530653820
+WhatsApp: https://wa.me/966530653820
+
+/* SITE */
+Standards: HTML5, Tailwind CSS, Schema.org JSON-LD
+Language: Arabic (ar-SA), RTL
+Last update: 2026-11-08
+
+/* THANKS */
+Clients across Riyadh and the Kingdom of Saudi Arabia
